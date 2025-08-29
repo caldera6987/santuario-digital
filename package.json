@@ -1,0 +1,24 @@
+{
+  "name": "santuario-digital",
+  "version": "1.0.0",
+  "description": "Santuario Digital: tu mentor interior y retos diarios en React + Tailwind.",
+  "main": "src/App.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["react", "tailwind", "openai", "mentor", "daily challenge"],
+  "author": "TuNombre",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "tailwindcss": "^4.0.0",
+    "autoprefixer": "^11.8.0",
+    "postcss": "^8.4.0"
+  }
+}
